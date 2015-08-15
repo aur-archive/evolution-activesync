@@ -1,0 +1,14 @@
+pkgbase = evolution-activesync
+	pkgdesc = Provides full two-way synchronization for Syncevolution via ActiveSync
+	pkgver = 0.92.5eof19c9db
+	pkgrel = 1
+	url = http://syncevolution.org/
+	arch = i686
+	arch = x86_64
+	license = GPL
+	depends = libwbxml
+	source = https://github.com/GNOME/evolution-activesync/archive/master.zip
+	md5sums = 72d43dd9477d75108b14b7592729f143
+
+pkgname = evolution-activesync
+
